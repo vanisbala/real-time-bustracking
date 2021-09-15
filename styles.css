@@ -1,0 +1,34 @@
+body {
+    margin: 5px;
+    padding: 10px;
+  }
+  
+  #map {
+    border-style: solid;
+    position: absolute;
+    top: 100px;
+    bottom: 60px;
+    left:175px;
+    width: 75%;
+  }
+  
+  .map-style{ 
+    text-align: center;
+    padding: 5px 10px 5px 10px;
+  }
+  
+  .map-overlay {
+    position: relative;
+    left: 0;
+    padding: 5px;
+    text-align: center;
+    font-size: small;
+  }
+  
+  #menu {
+    position: absolute;
+    background: #efefef;
+    padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
