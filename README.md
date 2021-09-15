@@ -40,8 +40,7 @@ git clone https://github.com/vanisbala/real-time-bustracking
 
 ## Deployed Link
 
-- [See live Site](https://vanisbala.github.io/realtime-bustracking/)
-
+- [See live Site](https://vanisbala.github.io/real-time-bustracking/)
 
 ## Roadmap
 
@@ -54,7 +53,7 @@ git clone https://github.com/vanisbala/real-time-bustracking
 
 ## License
 
-- [MIT License](https://github.com/vanisbala/realtime-bustracking/blob/profilepro/LICENSE)
+- [MIT License](https://github.com/vanisbala/real-time-bustracking/blob/profilepro/LICENSE)
 
 ## Credits
 
